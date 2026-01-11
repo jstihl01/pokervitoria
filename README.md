@@ -2,4 +2,6 @@
 
 Trabajo Fin de Grado - Ingeniería Informática
 
-Este es un nuevo cambio.
+## Objetivo
+
+Aprender Git y Github
