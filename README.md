@@ -9,3 +9,9 @@ Aprender Git y Github
 ## Branch 1
 
 Aprendiendo todavía...
+
+## Estructura TFG
+
+Primero tendrá esto
+Luego tendrá lo otro
+Y finalmente tendrá aquello
