@@ -15,5 +15,3 @@ Aprendiendo todavía...
 Primero tendrá esto
 Luego tendrá lo otro
 Y finalmente tendrá aquello
-
-el pepe
